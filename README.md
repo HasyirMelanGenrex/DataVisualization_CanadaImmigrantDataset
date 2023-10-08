@@ -1,3 +1,6 @@
+# Data Visualization
+In this project i tried to identify the trends and insight from the Cada Immigration Dataset
+
 # Canada Immigration Dataset
 The Canada Immigration Dataset Is a a dataset containing the list of countries, continents, and types of countries that immigrates their citizen to Canada from 1980 to 2013. The purpose of this Data Visualization is to Identify the trends, insights and possible hidden data contained within the data itself. This dataset's attributes consist of Type, Coverage,	OdName,	AREA,	AreaName,	REG,	RegName,	DEV,	DevName, and Years which would be further explained in the analysis. 
 
